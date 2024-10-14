@@ -1,5 +1,6 @@
 ---
 license: mit
+pretty_name: Word Lists for Cyber Security
 ---
 
 # Password List Collection
