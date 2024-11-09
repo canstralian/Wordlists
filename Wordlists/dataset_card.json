@@ -1,0 +1,21 @@
+{
+  "name": "Canstralian Wordlists",
+  "description": "A dataset containing password lists and corresponding hash values for password cracking simulations.",
+  "license": "CC-BY 4.0",
+  "size": "500MB",
+  "languages": ["en"],
+  "splits": {
+    "train": 50000,
+    "test": 10000,
+    "validation": 5000
+  },
+  "creator": "Stephen de Jager",
+  "task": "password-cracking",
+  "features": {
+    "password": "string",
+    "hash": "string",
+    "hash_algorithm": "string",
+    "label": "integer"
+  }
+}
+
