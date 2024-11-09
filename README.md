@@ -1,16 +1,25 @@
 ---
-# For reference on model card metadata, see the spec: https://github.com/huggingface/hub-docs/blob/main/modelcard.md?plain=1
-# Doc / guide: https://huggingface.co/docs/hub/model-cards
-# model-card-metadata
-language: [en]
-tags: [Wordlists, Cybersecurity, Penetration Testing, Ethical Hacking]
+language:
+- en
+tags:
+- Wordlists
+- Cybersecurity
+- Penetration Testing
+- Ethical Hacking
 license: mit
 pipeline_tag: text-processing
 metrics:
-  - coverage
-  - completeness
-  - uniqueness
+- coverage
+- completeness
+- uniqueness
 model_type: dataset
+task_categories:
+- text-classification
+- token-classification
+- question-answering
+pretty_name: Wordlists
+size_categories:
+- 10K<n<100K
 ---
 
 # Model Card for Canstralian/Wordlists
@@ -26,18 +35,12 @@ This model card provides an overview of **Canstralian/Wordlists**, a curated col
 **Canstralian/Wordlists** offers a variety of wordlists that encompass common passwords, phrases, and terms relevant to the cybersecurity landscape. This collection aims to assist security professionals and enthusiasts in enhancing their testing methodologies.
 
 - **Developed by:** Esteban Cara de Sexo
-- **Funded by [optional]:** No funding received
-- **Shared by [optional]:** [More Information Needed]
 - **Model type:** Dataset
 - **Language(s) (NLP):** English
-- **License:** MIT
-- **Finetuned from model [optional]:** [More Information Needed]
 
 ### Model Sources [optional]
 
 - **Repository:** [Your GitHub Repository Link]
-- **Paper [optional]:** [More Information Needed]
-- **Demo [optional]:** [More Information Needed]
 
 ## Uses
 
