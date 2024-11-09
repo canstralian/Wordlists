@@ -1,10 +1,28 @@
+# Wordlist entries for Password Cracking
+password123
+letmein
+123456
+sunshine
+qwerty
+welcome
+
+# Training Data for Machine Learning (Text Classification)
 positive: I love programming with Python.
 negative: Debugging code can be so frustrating.
 positive: Natural language processing is a fascinating field.
 negative: I get so stressed when the code doesn't work.
 positive: I enjoy learning new technologies every day.
-negative: Sometimes I feel overwhelmed by all the new tech.
-positive: Reading technical articles gives me new insights every day.
-negative: I hate it when the internet is slow.
-positive: Working with data science is so rewarding.
-negative: It's hard to stay motivated when projects don't go as planned.
+
+# Text Data for Language Model Training (Text Generation)
+The quick brown fox jumps over the lazy dog.
+Artificial intelligence is reshaping the future of work.
+Data science is a powerful tool for decision-making.
+Machine learning models can learn from vast amounts of data.
+Python is a versatile language used in many fields.
+
+# More Wordlist entries
+admin123
+letmein123
+football
+iloveyou
+123qwe
