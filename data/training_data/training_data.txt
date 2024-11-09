@@ -1,0 +1,10 @@
+positive: I love programming with Python.
+negative: Debugging code can be so frustrating.
+positive: Natural language processing is a fascinating field.
+negative: I get so stressed when the code doesn't work.
+positive: I enjoy learning new technologies every day.
+negative: Sometimes I feel overwhelmed by all the new tech.
+positive: Reading technical articles gives me new insights every day.
+negative: I hate it when the internet is slow.
+positive: Working with data science is so rewarding.
+negative: It's hard to stay motivated when projects don't go as planned.
